@@ -2,12 +2,35 @@
     <string name="app_name">Transport app</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Sharif</string>
+    <string name="nav_header_subtitle">Serifsireliyev@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_login">Transport app</string>
+
+
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="register_to_continue">Register to continue</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_accountant">Create new accountant</string>
+    <string name="already_accountant">You have already accountant</string>
+    <string name="destination">Destination</string>
+    <string name="search_sth">Search sth</string>
+    <string name="start_country">aze</string>
+    <string name="start_city">Baku</string>
+    <string name="finish_country">tur</string>
+    <string name="finish_city">Izmir</string>
+    <string name="time">10.02.2024</string>
+    <string name="std">std</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.sharif.transportapp.ui.slideshow
+package com.sharif.transportapp.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

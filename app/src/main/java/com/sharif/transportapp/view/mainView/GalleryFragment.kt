@@ -1,4 +1,4 @@
-package com.sharif.transportapp.ui.gallery
+package com.sharif.transportapp.view.mainView
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.sharif.transportapp.databinding.FragmentGalleryBinding
+import com.sharif.transportapp.viewModel.GalleryViewModel
 
 class GalleryFragment : Fragment() {
 
