@@ -1,6 +1,5 @@
 package com.sharif.transportapp.view.mainView
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
@@ -13,7 +12,6 @@ import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.navigation.NavigationView
 import com.sharif.transportapp.R
 import com.sharif.transportapp.databinding.ActivityMainBinding
-import com.sharif.transportapp.databinding.FragmentNewAdsBinding
 
 class MainActivity : AppCompatActivity() {
 
